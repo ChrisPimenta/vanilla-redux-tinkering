@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-redux-tinkering",
+  "version": "1.0.0",
+  "description": "A project to tinker with vanila redux",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisPimenta/vanilla-redux-tinkering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisPimenta/vanilla-redux-tinkering/issues"
+  },
+  "homepage": "https://github.com/ChrisPimenta/vanilla-redux-tinkering#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
